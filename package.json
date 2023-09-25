@@ -3,7 +3,10 @@
   "version": "1.0.0",
   "description": "",
   "main": "index.js",
-  "scripts": {},
+  "scripts": {
+    "test": "playwright test",
+    "headedTest": "playwright test --headed"
+  },
   "repository": {
     "type": "git",
     "url": "git+https://github.com/emejota2/10-pearls-challenge.git"
