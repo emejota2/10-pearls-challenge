@@ -1,0 +1,24 @@
+{
+  "name": "10-pearls-challenge",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {},
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/emejota2/10-pearls-challenge.git"
+  },
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/emejota2/10-pearls-challenge/issues"
+  },
+  "homepage": "https://github.com/emejota2/10-pearls-challenge#readme",
+  "devDependencies": {
+    "@playwright/test": "^1.38.1",
+    "@types/node": "^20.6.4"
+  },
+  "dependencies": {
+    "fs": "0.0.1-security"
+  }
+}
